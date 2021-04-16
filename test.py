@@ -1,8 +1,0 @@
-print("Välkommen  till programmet")
-print("Vad heter du?")
-name = input("")
-print("Fint namn! Hur gammal är du?")
-age = input("")
-print(f"Hej {name}, trevligt att du kör mitt program. Du är {age}.")
-print("Var kommer du från?")
-plats = input("")
