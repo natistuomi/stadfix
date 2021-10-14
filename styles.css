@@ -1,1 +1,13 @@
-body {font-family:Verdana, Geneva, Tahoma, sans-serif;}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000080;
+    color: #f0f0f0;
+}
+
+section {
+    border-style: double;
+    border-width: 10px;
+    background-color: #f0f0f0;
+    border-color: #000080;
+    color: #121212;
+}
